@@ -1,0 +1,1 @@
+Ce dossier est créé juste pour voir l'importance du NAMING des Class/tableau sous Sinatra/ActiveRecord.
